@@ -1,11 +1,11 @@
 # Auditbericht: Data Privacy (Final)
 
-**Unternehmen:** SecureData GmbH
+**Unternehmen:** Muster GmbH
 **Datum:** 14.02.2026
-**Auditor:** [Dein Name]
+**Auditor:** Max Mustermann
 
 ## 1. Ergebnisse
-Das Privacy Information Management System (PIMS) der SecureData GmbH ist **teilweise konform** zur ISO 27701 und DSGVO.
+Das Privacy Information Management System (PIMS) der Muster GmbH ist **teilweise konform** zur ISO 27701 und DSGVO.
 
 ## 2. Befunde (Findings)
 
