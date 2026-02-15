@@ -19,4 +19,4 @@ Das Portfolio zeigt, wie ich Datenschutz-Managementsysteme prüfe, Risikobewertu
 | `03_Sicherheitsmassnahmen`| Technische & Organisatorische Maßnahmen (TOMs) |
 | `04_Audit_Report` | Audit-Vorlage und Beispielbefunde |
 
-## Disclaimer: Dieses Repository ist ein fiktives Mock-Audit und dient ausschließlich zu Bildungs- und Demonstrationszwecken. Es ersetzt keine Rechtsberatung oder formale aufsichtliche Dokumentation.
+**Disclaimer**: Dieses Repository ist ein fiktives Mock-Audit und dient ausschließlich zu Bildungs- und Demonstrationszwecken. Es ersetzt keine Rechtsberatung oder formale aufsichtliche Dokumentation.
