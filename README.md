@@ -1,16 +1,15 @@
-# Data Privacy Audit Portfolio (ISO 27701 & DSGVO) - [Dein Name]
+# Data Privacy Audit Portfolio (ISO 27701 & DSGVO)
 
 Willkommen auf meinem Portfolio-Repository. Dieses Repository demonstriert meine Kompetenz in der Überprüfung der Konformität im **Datenschutz** basierend auf der **ISO/IEC 27701** (Privacy Information Management System - PIMS) und der **EU-DSGVO**.
 
-Das Portfolio zeigt, wie ich als Auditor Datenschutz-Managementsysteme prüfe, Risikobewertungen durchführe und die Rechte der Betroffenen validiere.
+Das Portfolio zeigt, wie ich Datenschutz-Managementsysteme prüfe, Risikobewertungen durchführe und die Rechte der Betroffenen validiere.
 
-## 🏆 Fokus & Kompetenz
+## Fokus & Kompetenz
 
-* **Rolle:** Data Privacy Auditor / Berater
 * **Schwerpunkt:** PIMS-Implementierung, DSGVO-Gap-Analysen, Risikoanalysen im Datenschutz.
 * **Methodik:** Abgleich interner Kontrollen mit ISO 27701 und DSGVO-Artikeln.
 
-## 🛠️ Repository-Struktur
+## Repository-Struktur
 
 | Ordner | Inhalt |
 | :--- | :--- |
@@ -20,5 +19,4 @@ Das Portfolio zeigt, wie ich als Auditor Datenschutz-Managementsysteme prüfe, R
 | `03_Sicherheitsmassnahmen`| Technische & Organisatorische Maßnahmen (TOMs) |
 | `04_Audit_Report` | Audit-Vorlage und Beispielbefunde |
 
-## 📄 Lizenz
-Dieses Werk ist unter der [MIT License](LICENSE) lizenziert.
+## Disclaimer: Dieses Repository ist ein fiktives Mock-Audit und dient ausschließlich zu Bildungs- und Demonstrationszwecken. Es ersetzt keine Rechtsberatung oder formale aufsichtliche Dokumentation.
